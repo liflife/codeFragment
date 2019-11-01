@@ -1,5 +1,7 @@
 ## Big-O复杂图表
-![Image text](https://pic.leetcode-cn.com/Figures/20/20-Valid-Parentheses-Recursive-Property.png)
+![Image text](Big-O复杂图表.png)
+
+
 
 
 ## 栈应用
